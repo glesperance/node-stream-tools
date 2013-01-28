@@ -1,0 +1,26 @@
+{ "name"        : "stream-tools"
+, "description" : "A collection of simple yet powerful tools to manipulate node.js streams."
+
+, "keywords"    : ["stream", "tools", "map", "bolt", "aggregate", "spout", "sink"]
+, "version"     : "0.1.0"
+, "homepage"    : "https://github.com/glesperance/node-stream-tools"
+
+, "repository"  : { "type"  : "git"
+                  , "url"   : "git://github.com/glesperance/node-stream-tools.git"
+                  }
+
+, "author": "Gabriel Lesperance <gabriel@wavo.me> (glesperance.com / wavo.me)"
+
+, "main": "stream-tools"
+
+, "engines": { "node": "0.8.x" }
+
+, "dependencies": {
+      "underscore"    : "x.x.x"
+  }
+
+, "licenses" : [{ 
+      "type" : "MIT"
+    , "url" : "https://github.com/glesperance/node-stream-tools/raw/master/LICENSE"
+  }]
+}
