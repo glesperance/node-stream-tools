@@ -2,7 +2,7 @@
 , "description" : "A collection of simple yet powerful tools to manipulate node.js streams."
 
 , "keywords"    : ["stream", "tools", "map", "bolt", "aggregate", "spout", "sink"]
-, "version"     : "0.2.1"
+, "version"     : "0.2.2"
 , "homepage"    : "https://github.com/glesperance/node-stream-tools"
 
 , "repository"  : { "type"  : "git"
@@ -16,7 +16,7 @@
 , "engines": { "node": "0.8.x" }
 
 , "dependencies": {
-      "underscore"    : "x.x.x"
+      "underscore"    : "1.4.x"
   }
 
 , "licenses" : [{ 
