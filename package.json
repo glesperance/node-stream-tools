@@ -13,7 +13,7 @@
 
 , "main": "stream-tools"
 
-, "engines": { "node": "0.8.x" }
+, "engines": { "node": ">=0.8.x" }
 
 , "dependencies": {
       "underscore"    : "1.4.x"
